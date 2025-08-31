@@ -18,7 +18,7 @@ dist/
 .env
 client/.env
 server/.env
-server/config.env
+
 client/.env.development
 client/.env.production
 
